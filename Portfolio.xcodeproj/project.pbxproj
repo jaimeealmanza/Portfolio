@@ -12,6 +12,7 @@
 		081E17452565AD3300782DF2 /* Awards.json in Resources */ = {isa = PBXBuildFile; fileRef = 081E17442565AD3300782DF2 /* Awards.json */; };
 		081E17482565AE1400782DF2 /* Award.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081E17472565AE1400782DF2 /* Award.swift */; };
 		081E174C2565AEC500782DF2 /* AwardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081E174B2565AEC500782DF2 /* AwardsView.swift */; };
+		0841C6A6256C991800C3DBE5 /* Color-Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0841C6A5256C991800C3DBE5 /* Color-Additions.swift */; };
 		08687FC4255B30B1002C76BA /* Sequence-Sorting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08687FC3255B30B1002C76BA /* Sequence-Sorting.swift */; };
 		08687FC9255B588A002C76BA /* SelectSomethingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08687FC8255B588A002C76BA /* SelectSomethingView.swift */; };
 		086D9F032548D30300C53200 /* PortfolioApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 086D9F022548D30300C53200 /* PortfolioApp.swift */; };
@@ -38,6 +39,7 @@
 		081E17442565AD3300782DF2 /* Awards.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Awards.json; sourceTree = "<group>"; };
 		081E17472565AE1400782DF2 /* Award.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Award.swift; sourceTree = "<group>"; };
 		081E174B2565AEC500782DF2 /* AwardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwardsView.swift; sourceTree = "<group>"; };
+		0841C6A5256C991800C3DBE5 /* Color-Additions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Additions.swift"; sourceTree = "<group>"; };
 		08687FC3255B30B1002C76BA /* Sequence-Sorting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sequence-Sorting.swift"; sourceTree = "<group>"; };
 		08687FC8255B588A002C76BA /* SelectSomethingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectSomethingView.swift; sourceTree = "<group>"; };
 		086D9EFF2548D30300C53200 /* Portfolio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Portfolio.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -106,6 +108,7 @@
 				08949F1D2550ABDA00E8ABFA /* ProjectHeaderView.swift */,
 				081E17472565AE1400782DF2 /* Award.swift */,
 				081E174B2565AEC500782DF2 /* AwardsView.swift */,
+				0841C6A5256C991800C3DBE5 /* Color-Additions.swift */,
 				081D647D254A24C500251525 /* Item+CoreDataHelpers.swift */,
 				081D6480254A259800251525 /* Project+CoreDataHelpers.swift */,
 				08949F1A2550A6D500E8ABFA /* Binding-OnChange.swift */,
@@ -213,6 +216,7 @@
 				081E174C2565AEC500782DF2 /* AwardsView.swift in Sources */,
 				086D9F232548ED1100C53200 /* ProjectView.swift in Sources */,
 				086D9F142548DB9D00C53200 /* Main.xcdatamodeld in Sources */,
+				0841C6A6256C991800C3DBE5 /* Color-Additions.swift in Sources */,
 				08949F242550B00400E8ABFA /* EditProjectView.swift in Sources */,
 				086D9F172548DE6700C53200 /* DataController.swift in Sources */,
 				08687FC9255B588A002C76BA /* SelectSomethingView.swift in Sources */,

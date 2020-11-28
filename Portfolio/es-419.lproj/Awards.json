@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Primeros pasos",
+        "description": "Agrega tu primer artículo.",
+        "color": "Light Blue",
+        "criterion": "items",
+        "value": 1,
+        "image": "figure.walk"
+    },
+    {
+        "name": "Un gran comienzo",
+        "description": "Agrega 10 artículos.",
+        "color": "Light Blue",
+        "criterion": "items",
+        "value": 10,
+        "image": "hand.thumbsup.fill"
+    },
+    {
+        "name": "Continuando para arriba",
+        "description": "Agrega 20 artículos.",
+        "color": "Light Blue",
+        "criterion": "items",
+        "value": 20,
+        "image": "tray.and.arrow.up.fill"
+    },
+    {
+        "name": "Agarrando velocidad",
+        "description": "Agrega 50 artículos.",
+        "color": "Light Blue",
+        "criterion": "items",
+        "value": 50,
+        "image": "speedometer"
+    },
+    {
+        "name": "Haciendo olas",
+        "description": "Agrega 100 artículos.",
+        "color": "Light Blue",
+        "criterion": "items",
+        "value": 100,
+        "image": "dot.radiowaves.left.and.right"
+    },
+    {
+        "name": "Alto desempeño",
+        "description": "Agrega 250 artículos.",
+        "color": "Light Blue",
+        "criterion": "items",
+        "value": 250,
+        "image": "square.stack.3d.up.fill"
+    },
+    {
+        "name": "Artista estrella",
+        "description": "Agrega 500 artículos.",
+        "color": "Light Blue",
+        "criterion": "items",
+        "value": 500,
+        "image": "star.circle.fill"
+    },
+    {
+        "name": "Artista campeón/campeona",
+        "description": "Agrega 1,000 artículos.",
+        "color": "Light Blue",
+        "criterion": "items",
+        "value": 1000,
+        "image": "crown.fill"
+    },
+    {
+        "name": "Verificando casillas",
+        "description": "Completa tu primer artículo.",
+        "color": "Orange",
+        "criterion": "complete",
+        "value": 1,
+        "image": "checkmark.shield.fill"
+    },
+    {
+        "name": "Moviéndote",
+        "description": "Completa 10 artículos.",
+        "color": "Orange",
+        "criterion": "complete",
+        "value": 10,
+        "image": "guitars.fill"
+    },
+    {
+        "name": "Veinte es bastante",
+        "description": "Completa 20 artículos.",
+        "color": "Orange",
+        "criterion": "complete",
+        "value": 20,
+        "image": "20.square.fill"
+    },
+    {
+        "name": "¡En el centro!",
+        "description": "Completa 50 artículos.",
+        "color": "Orange",
+        "criterion": "complete",
+        "value": 50,
+        "image": "target"
+    },
+    {
+        "name": "Volando alto",
+        "description": "Completa 100 artículos.",
+        "color": "Orange",
+        "criterion": "complete",
+        "value": 100,
+        "image": "airplane.circle.fill"
+    },
+    {
+        "name": "¡Estás que ardes!",
+        "description": "Completa 250 artículos.",
+        "color": "Orange",
+        "criterion": "complete",
+        "value": 250,
+        "image": "flame.fill"
+    },
+    {
+        "name": "Verificador de casillas en jefe",
+        "description": "Completa 500 artículos.",
+        "color": "Orange",
+        "criterion": "complete",
+        "value": 500,
+        "image": "text.badge.checkmark"
+    },
+    {
+        "name": "¡Pum!",
+        "description": "Completa 1,000 artículos.",
+        "color": "Orange",
+        "criterion": "complete",
+        "value": 1000,
+        "image": "bolt.circle.fill"
+    },
+    {
+        "name": "Primer mensaje",
+        "description": "Publica tu primer mensaje en el chat grupal",
+        "color": "Purple",
+        "criterion": "chat",
+        "value": 1,
+        "image": "person.fill"
+    },
+    {
+        "name": "Platicador(a) frecuente",
+        "description": "Publica 10 mensajes en el chat grupal.",
+        "color": "Purple",
+        "criterion": "chat",
+        "value": 10,
+        "image": "message.fill"
+    },
+    {
+        "name": "Potencia comunitaria",
+        "description": "Publica 100 mensajes en el chat grupal.",
+        "color": "Purple",
+        "criterion": "chat",
+        "value": 100,
+        "image": "arrow.up.heart.fill"
+    },
+    {
+        "name": "Seguidor(a)",
+        "description": "Compra el desbloqueo premium.",
+        "color": "Green",
+        "criterion": "unlock",
+        "value": 0,
+        "image": "dollarsign.square.fill"
+    }
+]

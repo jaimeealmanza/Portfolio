@@ -81,7 +81,14 @@ struct ProjectView: View {
                                 dataController.save()
                             }
                         } label: {
-                            Label("Add Project", systemImage: "plus")
+                            // This is a hack. We can't do this for macOS
+                            // We're just attempting to overide the shipping bug in iOS and mac Catalyst
+                            // In which voice over ignores accesibility hints or labels for this button in the toolbar.
+                            if UIAccessibility.isVoiceOverRunning {
+                                Text("Add Project")
+                            } else {
+                                Label("Add Project", systemImage: "plus")
+                            }
                         }
                     }
                 }

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0814640A26698DBD00404A6E /* ItemListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0814640926698DBD00404A6E /* ItemListView.swift */; };
+		0814640C26698E8900404A6E /* ProjectSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0814640B26698E8900404A6E /* ProjectSummaryView.swift */; };
 		081D647E254A24C500251525 /* Item+CoreDataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081D647D254A24C500251525 /* Item+CoreDataHelpers.swift */; };
 		081D6481254A259800251525 /* Project+CoreDataHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081D6480254A259800251525 /* Project+CoreDataHelpers.swift */; };
 		081E17482565AE1400782DF2 /* Award.swift in Sources */ = {isa = PBXBuildFile; fileRef = 081E17472565AE1400782DF2 /* Award.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0814640926698DBD00404A6E /* ItemListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemListView.swift; sourceTree = "<group>"; };
+		0814640B26698E8900404A6E /* ProjectSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectSummaryView.swift; sourceTree = "<group>"; };
 		081D647D254A24C500251525 /* Item+CoreDataHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Item+CoreDataHelpers.swift"; sourceTree = "<group>"; };
 		081D6480254A259800251525 /* Project+CoreDataHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Project+CoreDataHelpers.swift"; sourceTree = "<group>"; };
 		081E17472565AE1400782DF2 /* Award.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Award.swift; sourceTree = "<group>"; };
@@ -107,6 +111,8 @@
 				086D9F162548DE6700C53200 /* DataController.swift */,
 				086D9F042548D30300C53200 /* ContentView.swift */,
 				086D9F1E2548ECAD00C53200 /* HomeView.swift */,
+				0814640B26698E8900404A6E /* ProjectSummaryView.swift */,
+				0814640926698DBD00404A6E /* ItemListView.swift */,
 				086D9F222548ED1100C53200 /* ProjectView.swift */,
 				08687FC8255B588A002C76BA /* SelectSomethingView.swift */,
 				08949F172550A43500E8ABFA /* ItemRowView.swift */,
@@ -224,6 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				081D6481254A259800251525 /* Project+CoreDataHelpers.swift in Sources */,
+				0814640C26698E8900404A6E /* ProjectSummaryView.swift in Sources */,
 				08949F1E2550ABDA00E8ABFA /* ProjectHeaderView.swift in Sources */,
 				081E174C2565AEC500782DF2 /* AwardsView.swift in Sources */,
 				086D9F232548ED1100C53200 /* ProjectView.swift in Sources */,
@@ -238,6 +245,7 @@
 				08949F1B2550A6D500E8ABFA /* Binding-OnChange.swift in Sources */,
 				08687FC4255B30B1002C76BA /* Sequence-Sorting.swift in Sources */,
 				08E300CD25647B9A00755D08 /* Bundle-Decodable.swift in Sources */,
+				0814640A26698DBD00404A6E /* ItemListView.swift in Sources */,
 				086D9F1F2548ECAD00C53200 /* HomeView.swift in Sources */,
 				086D9F032548D30300C53200 /* PortfolioApp.swift in Sources */,
 				081D647E254A24C500251525 /* Item+CoreDataHelpers.swift in Sources */,
